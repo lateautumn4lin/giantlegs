@@ -32,6 +32,8 @@ none
 
 👤 **lateautumn4lin**
 
+* Wechat: linhanqiu1123
+* 公众号：云爬虫技术研究笔记
 * Website: https://cloudcrawler.club/
 * Twitter: [@none](https://twitter.com/none)
 * Github: [@lateautumn4lin](https://github.com/lateautumn4lin)
